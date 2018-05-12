@@ -1,0 +1,40 @@
+_repo: Poor-Man-s-Rock_16541
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Johnson, Frank Tenney
+    alias: Johnson, F. Tenney
+    birthdate: 1874
+    deathdate: 1939
+    gutenberg_agent_id: '6781'
+    url: http://www.gutenberg.org/2009/agents/6781
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Tenney_Johnson
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sinclair, Bertrand W.
+    aliases:
+    - Sinclair, Bill
+    - Sinclair, William Brown
+    - Sinclair, Bertrand William
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '3891'
+    url: http://www.gutenberg.org/2009/agents/3891
+description: Cover -- Contents.
+gutenberg_issued: '2005-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16541'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Pacific salmon fisheries -- British Columbia -- Fiction'
+title: Poor Man's Rock
+url: http://www.gutenberg.org/ebooks/16541
